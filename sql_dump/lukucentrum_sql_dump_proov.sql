@@ -131,6 +131,7 @@ INSERT INTO `admins` (`id`, `name`, `email`, `password`, `api_token`, `status`, 
 --
 -- Table structure for table `admin_password_resets`
 --
+--
 
 DROP TABLE IF EXISTS `admin_password_resets`;
 CREATE TABLE `admin_password_resets` (
